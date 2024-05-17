@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Самостоятельно изучите работу с пакетом python-psycopg2 для работы с 
+# базами данных PostgreSQL. Для своего варианта лабораторной работы 2.17 
+# необходимо реализовать возможность хранения данных в базе данных 
+# СУБД PostgreSQL.
+
+
 import argparse
 import psycopg2
 import typing as t
